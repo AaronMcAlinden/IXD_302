@@ -11,7 +11,7 @@ IXD 302 DELIVERABLES
 
 + [Takahe Project Wire Frame Sketches](http://amcalinden.tumblr.com/post/155617737592/takahe-project-initial-wiref-rames-some-of-my)
 
-+ [Takahe Project Prototype](https://xd.adobe.com/view/0107ce37-bf3a-4dc4-a2b9-38ec6e1ed679/)
++ [Takahe Project Prototype](https://xd.adobe.com/view/9af7d6f8-b5db-447b-a6c6-dcf4aee7856e/)
 
 + [Heroes and Villains Style Tile](http://amcalinden.tumblr.com/post/155616871072/heroes-and-villains-style-tile-i-decided-to-take-a)
 
